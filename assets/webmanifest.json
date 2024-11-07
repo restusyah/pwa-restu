@@ -1,0 +1,21 @@
+{
+  "name": "PWA Restu",
+  "short_name": "PWA",
+  "description": "Aplikasi PWA menampilkan profil lengkap.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3367D6",
+  "icons": [
+    {
+      "src": "/assets/img/roket.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/profile.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
